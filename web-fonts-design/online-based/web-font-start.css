@@ -1,0 +1,35 @@
+/* General setup */
+
+html {
+  font-size: 10px;
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+body {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Typography */
+
+h1 {
+  font-size: 3.2rem;
+}
+
+h2 {
+  font-size: 2.4rem;
+}
+
+h1,h2 {
+  font-family: "Playwrite VN", serif;
+}
+
+
+p {
+  font-family: "Jersey 15", serif;
+  line-height: 1.6;
+  word-spacing: 0.6rem;
+}
